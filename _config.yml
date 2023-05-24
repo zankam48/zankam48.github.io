@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/gweh.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -36,9 +36,9 @@ disqus:
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
 #twitter: mytwitter
-instagram: https://www.instagram.com/hikamizan/
-linkedin: https://www.linkedin.com/in/muhammad-mizanul-hikam-9bb21a209/
-github: https://github.com/zankam48
+instagram: hikamizan/
+linkedin: muhammad-mizanul-hikam-9bb21a209/
+github: zankam48
 email: hikamizan771@gmail.com
 
 authors:
@@ -46,8 +46,8 @@ authors:
     name: Muhammad Mizanul Hikam
     bio: Quantum Computing and Electronics Enthusiast
     external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
+    picture: assets/images/gweh.jpg
+    #twitter: johndoe
   jamesfoster:
     name: James Foster
     bio: A Man who develops software with coffee
