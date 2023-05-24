@@ -20,7 +20,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://github.com/zankam48
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -34,17 +34,17 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+#facebook: myfacebook
+#twitter: mytwitter
+instagram: https://www.instagram.com/hikamizan/
+linkedin: https://www.linkedin.com/in/muhammad-mizanul-hikam-9bb21a209/
+github: https://github.com/zankam48
+email: hikamizan771@gmail.com
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Muhammad Mizanul Hikam
+    bio: Quantum Computing and Electronics Enthusiast
     external-image: false
     picture: assets/images/profile.jpg
     twitter: johndoe
