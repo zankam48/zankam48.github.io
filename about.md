@@ -4,19 +4,11 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I am an individual who places utmost value on passion, recognizing its significance in life, while maintaining a realistic perspective on the importance of material resources in our current societal structure.
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+Driven by a profound interest in Quantum Computing and Electronic endeavors, I have embarked on numerous projects and created a dedicated blog to explore and share my knowledge in these areas. These endeavors not only serve as a source of learning but also bring immense joy to my life. Continually seeking new opportunities for growth and expansion, I wholeheartedly embrace the words of Brian Herberts, who aptly stated, 'The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice.'
+
+With an unwavering commitment to nurturing my passions, I strive to foster engaging experiences that captivate and inspire others within the realm of Quantum Computing and Electronics. Join me on this exhilarating journey of discovery as we explore the endless possibilities and push the boundaries of knowledge together.</p>
 
 <h2>Skills</h2>
 
