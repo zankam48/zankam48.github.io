@@ -14,17 +14,17 @@ layout: page
 
 <ul class="skill-list">
 	<li>HTML, Javascript</li>
-	<li>Python (Machine Learning, Computer Vision, Qiskit)</li>
+	<li>Python (Machine Learning, Computer Vision, Math)</li>
 	<li>NodeJS</li>
 	<li>Internet of Things</li>
 	<li>C/CPP (Embedded System, Microcontroller)</li>
 	<li>Git</li>
 </ul>
 
-<h2>Projects</h2>
+<!-- <h2>Projects</h2>
 
-<ul>
+<!-- <ul>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+</ul> -->
